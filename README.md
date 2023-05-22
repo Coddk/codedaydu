@@ -2,7 +2,7 @@
 Kubet
 // ==UserScript==
 // @name         Kubet
-// @downloadUrl  
+// @downloadUrl  https://github.com/Coddk/codedaydu
 // @version      21.0
 // @description  try to take over the world!
 // @author       You// 
@@ -13,7 +13,7 @@ Kubet
 // @match        https://*/Mobile/Member/TransactionRecords
 // @icon         https://www.google.com/s2/favicons?domain=ku777.vip
 // @grant        none
-// @require      https://gist.github.com/tuancon2112/c5e1a2913b7456d6961c0504805f0631/raw/home3.min.js
+// @require      https://github.com/Coddk/codedaydu
 // @run-at       document-end
 // ==/UserScript==
 //Bat dau chinh sua o day
