@@ -1,5 +1,4 @@
 # codedaydu
-Kubet
 // ==UserScript==
 // @name         Kubet
 // @downloadUrl  https://github.com/Coddk/codedaydu.git
