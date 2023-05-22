@@ -2,7 +2,6 @@
 // ==UserScript==
 // @name         Kubet
 // @downloadUrl  https://github.com/Coddk/codedaydu.git
-// @version      21.0
 // @description  try to take over the world!
 // @author       You// 
 // @author       https://vn.tbab939.com/Mobile/Home/Index
